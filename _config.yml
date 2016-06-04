@@ -51,6 +51,6 @@ kramdown:
   hard_wrap: true
 
 #追加
-timezone: JPN
+timezone: Asia/Tokyo
 
 exclude: ['README.md', 'LICENSE']
