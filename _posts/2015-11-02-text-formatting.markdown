@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Text formatting"
+title: "jekyllにおけるテキストの書き方"
 date: 2015-11-02 16:25:06
 tags: jekyll
-description: Text formatting examples.
+description: テキストの書き方の例.
 ---
 
 Some examples of text formating for some common text elements.

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Sample post with code snippets"
+title: "jekyllでコード"
 date: 2015-09-01 16:25:06
 tags: code jekyll
-description: Sample post showing how code samples would look like
+description: jekyllでコードを書く方法
 ---
 
 ## Introduction
