@@ -8,6 +8,5 @@ share: true
 
 よろしくお願いします。
 
-{% highlight c %}
-pirntd("Hello World")
-{% endhighlight yml %}
+基本的に、競プロで解いた問題を記録用として、書いてきます。
+まだ全然できないので、間違ってることとか書くと思うので、その時は教えて下さい。
