@@ -3,7 +3,7 @@ layout: post
 title: Equal Total Scores
 date: 2016-06-06 00:10:08
 tags: ICPC AOJ
-description: 
+description: 全探索
 ---
 
 [問題](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1153)
