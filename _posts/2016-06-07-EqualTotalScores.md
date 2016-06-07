@@ -2,7 +2,7 @@
 layout: post
 title: Equal Total Scores
 date: 2016-06-06 00:10:08
-tags: 
+tags: ICPC AOJ
 description: 
 ---
 
