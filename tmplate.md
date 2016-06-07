@@ -13,6 +13,8 @@ description:
 ## 考え方
 `変数名など`
 
+## ミス
+
 ![screenshot]({{ site.baseurl | prepend:site.url}}/images/画像ファイル名){: .center-image }*画像下の見出し*
 ## コード
 
