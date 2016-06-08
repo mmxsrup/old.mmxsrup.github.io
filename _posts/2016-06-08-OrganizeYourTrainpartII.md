@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 列車編成パートⅡ
-date: 2016-06-07 00:13:10
+date: 2016-06-08 00:13:10
 tags: ICPC AOJ
 description: 同じものが重複しないsetが便利 substrも重要
 ---
