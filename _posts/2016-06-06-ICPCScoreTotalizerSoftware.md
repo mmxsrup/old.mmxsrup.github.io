@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ICPC Score Totalizer Software
+title: ICPC 得点集計ソフトウェア
 date: 2016-06-05 00:00:07
 tags: ICPC AOJ
 description: vector便利だね

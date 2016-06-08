@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Equal Total Scores
+title: 等しい合計点
 date: 2016-06-06 00:10:08
 tags: ICPC AOJ
 description: 全探索

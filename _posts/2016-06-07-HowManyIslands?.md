@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Many Islands?
+title: 島はいくつある?
 date: 2016-06-07 00:10:10
 tags: ICPC　AOJ
 description: 斜めも含む動き queueで実装する必要ないか？
