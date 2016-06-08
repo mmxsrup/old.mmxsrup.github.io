@@ -1,4 +1,6 @@
 # Jekyll configuration
+#追加
+timezone: JPN
 
 name: mmxsrup Blog
 description: Student
@@ -51,7 +53,5 @@ kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
   hard_wrap: true
 
-#追加
-timezone: Asia/Tokyo
 
 exclude: ['README.md', 'LICENSE']
