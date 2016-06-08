@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 画画画伯、かく脳みき
+title: 角角画伯、かく脳みき
 date: 2016-06-07 00:11:10
 tags: ICPC AOJ
 description: 配列の添字を利用すれば、どこにどの数字があるか探索しなくていい
