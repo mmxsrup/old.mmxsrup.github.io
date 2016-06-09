@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Numeral System
-date: 2016-06-09 02:17:10
+date: 2016-06-08 02:17:10
 tags: ICPC AOJ
 description: 文字列操作
 ---
