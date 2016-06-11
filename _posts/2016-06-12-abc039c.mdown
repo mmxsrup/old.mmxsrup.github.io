@@ -1,0 +1,62 @@
+---
+layout: post
+title: ABC 039　ピアニスト高橋君
+date: 2016-06-11 02:10:10
+tags: atcoder
+description: 勘違いして最悪だった
+---
+
+[問題](http://abc039.contest.atcoder.jp/tasks/abc039_c)
+
+## 問題
+どの鍵盤にいるかを求める。
+
+## 考え方
+ドレミファソラシの鍵盤となり２０個の鍵盤を見れば、それぞれにおいて、鍵盤の並びは違うので、７個の条件分岐で解く。
+
+## ミス
+`WBWBWWBWBWBWWBWBWWBW`これでピアノの一周期だと勘違いして、意味不明なことになった。
+
+
+## コード
+
+{% highlight c++ %}
+#include <iostream>
+#include <string>
+#include <algorithm>
+#include <functional>
+#include <vector>
+#include <stack>
+#include <queue>
+#include <set>
+#include <bitset>
+#include <map>
+#include <cstdio>
+#include <cstdlib>
+#include <cstring>
+#include <cmath>
+using namespace std;
+typedef long long ll;
+typedef pair<int,int> pint;
+typedef vector<int> vint;
+typedef vector<pint> vpint;
+#define mp make_pair
+#define fi first
+#define se second
+#define all(v) (v).begin(),(v).end()
+#define rep(i,n) for(int i=0;i<(n);i++)
+#define reps(i,f,n) for(int i=(f);i<(n);i++)
+
+int main(void){
+	string s;
+	cin >> s; 
+	if (s == "WBWBWWBWBWBWWBWBWWBW") printf("Do\n");
+	else if(s == "WBWWBWBWBWWBWBWWBWBW") printf("Re\n");
+	else if(s == "WWBWBWBWWBWBWWBWBWBW") printf("Mi\n");
+	else if(s == "WBWBWBWWBWBWWBWBWBWW") printf("Fa\n");
+	else if(s == "WBWBWWBWBWWBWBWBWWBW") printf("So\n");
+	else if(s == "WBWWBWBWWBWBWBWWBWBW") printf("La\n");
+	else if(s == "WWBWBWWBWBWBWWBWBWWB") printf("Si\n");
+	return 0;
+}
+{% endhighlight c++ %}
